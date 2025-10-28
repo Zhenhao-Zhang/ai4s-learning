@@ -5,65 +5,75 @@
 # Top Conference in 2026
 # Top Conference in 2025
 ## NeurIPS 2025
-
-
-[NeurIPS 2025] 3D-GSRD: 3D Molecular Graph Auto-Encoder with Selective Re-mask Decoding
-
-[NeurIPS 2025] Accurately Predicting Protein Mutational Effects via a Hierarchical Many-Body Attention Network
-
-[NeurIPS 2025] AlphaFold Database Debiasing for Robust Inverse Folding
-
-[NeurIPS 2025] Ambient Proteins - Training Diffusion Models on Noisy Structures
-
-[NeurIPS 2025] BioReason: Incentivizing Multimodal Biological Reasoning within a DNA-LLM Model
-
-[NeurIPS 2025] CPSea: Large-scale cyclic peptide-protein complex dataset for machine learning in cyclic peptide design
-
-[NeurIPS 2025] DecoyDB: A Dataset for Graph Contrastive Learning in Protein-Ligand Binding Affinity Prediction
-
-[NeurIPS 2025] DualMPNN: Harnessing Structural Alignments for High-Recovery Inverse Protein Folding
-
-[NeurIPS 2025] EnzyControl: Adding Functional and Substrate-Specific Control for Enzyme Backbone Generation
-
-[NeurIPS 2025] Equi-mRNA: Protein Translation Equivariant Encoding for mRNA Language Models
-
-[NeurIPS 2025] From Likelihood to Fitness: Improving Variant Effect Prediction in Protein and Genome Language Models
-
-[NeurIPS 2025] Generative Modeling of Full-Atom Protein Conformations using Latent Diffusion on Graph Embeddings
-
-[NeurIPS 2025] Joint Design of Protein Surface and Backbone Using a Diffusion Bridge Model
-
-[NeurIPS 2025] Latent Retrieval Augmented Generation of Cross-Domain Protein Binders
-
-[NeurIPS 2025] MAXWELL: Efficient Learning of Protein-Mutation Stability Landscapes using Protein Language Models
-
-[NeurIPS 2025] Mol-LLaMA: Towards General Understanding of Molecules in Large Molecular Language Model
-
-[NeurIPS 2025] NeuralPLexer3: Accurate Biomolecular Complex Structure Prediction with Flow Models
-
-[NeurIPS 2025] Prot2Text-V2: Protein Function Prediction with Multimodal Contrastive Alignment
-
-[NeurIPS 2025] ProteinConformers: Benchmark Dataset for Simulating Protein Conformational Landscape Diversity and Plausibility
-
-[NeurIPS 2025] Protein Design with Dynamic Protein Vocabulary
-
-[NeurIPS 2025] Protein Inverse Folding From Structure Feedback
+[NeurIPS 2025] Scaling Unlocks Broader Generation and Deeper Functional Understanding of Proteins
 
 [NeurIPS 2025] ProtInvTree: Deliberate Protein Inverse Folding with Reward-guided Tree Search
 
-[NeurIPS 2025] PSBench: a large-scale benchmark for estimating the accuracy of protein complex structural models
+[NeurIPS 2025] DualMPNN: Harnessing Structural Alignments for High-Recovery Inverse Protein Folding
 
-[NeurIPS 2025] Repurposing AlphaFold3-like Protein Folding Models for Antibody Sequence and Structure Co-design
+[NeurIPS 2025] MAXWELL: Efficient Learning of Protein-Mutation Stability Landscapes using Protein Language Models
 
-[NeurIPS 2025] Scaling Unlocks Broader Generation and Deeper Functional Understanding of Proteins
+[NeurIPS 2025] Protein Design with Dynamic Protein Vocabulary
 
-[NeurIPS 2025] Unified all-atom molecule generation with neural fields
+[NeurIPS 2025] DecoyDB: A Dataset for Graph Contrastive Learning in Protein-Ligand Binding Affinity Prediction
+
+[NeurIPS 2025] Securing the Language of Life: Inheritable Watermarks from DNA Language Models to Proteins
+
+[NeurIPS 2025] Simultaneous Modeling of Protein Conformation and Dynamics via Autoregression
+
+[NeurIPS 2025] CPSea: Large-scale cyclic peptide-protein complex dataset for machine learning in cyclic peptide design
+
+[NeurIPS 2025] Prot2Text-V2: Protein Function Prediction with Multimodal Contrastive Alignment
+
+[NeurIPS 2025] Towards precision protein-ligand affinity prediction benchmark: A Complete, Modification-Aware DAVIS Dataset
 
 [NeurIPS 2025] Understanding protein function with a multimodal retrieval-augmented foundation model
 
-[NeurIPS 2025] UniSite: The First Cross-Structure Dataset and Learning Framework for End-to-End Ligand Binding Site Detection
+[NeurIPS 2025] From Likelihood to Fitness: Improving Variant Effect Prediction in Protein and Genome Language Models
+
+[NeurIPS 2025] Rationalized All-Atom Protein Design with Unified Multi-modal Bayesian Flow
+
+[NeurIPS 2025] Generative Modeling of Full-Atom Protein Conformations using Latent Diffusion on Graph Embeddings
+
+[NeurIPS 2025] Estimating protein stability using inverse folding models
+
+[NeurIPS 2025] Equi-mRNA: Protein Translation Equivariant Encoding for mRNA Language Models
+
+[NeurIPS 2025] Repurposing AlphaFold3-like Protein Folding Models for Antibody Sequence and Structure Co-design
+
+[NeurIPS 2025] PSBench: a large-scale benchmark for estimating the accuracy of protein complex structural models
+
+[NeurIPS 2025] Accurately Predicting Protein Mutational Effects via a Hierarchical Many-Body Attention Network
+
+[NeurIPS 2025] Protein Inverse Folding From Structure Feedback
+
+[NeurIPS 2025] ProSpero: Active Learning for Robust Protein Design Beyond Wild-Type Neighborhoods
+
+[NeurIPS 2025] Towards Multiscale Graph-based Protein Learning with Geometric Secondary Structural Motifs
+
+[NeurIPS 2025] ForceFM: Enhancing Protein-Ligand Predictions through Force-Guided Flow Matching
+
+[NeurIPS 2025] Joint Design of Protein Surface and Backbone Using a Diffusion Bridge Model
+
+[NeurIPS 2025] SpecMER: Fast Protein Generation with K-mer Guided Speculative Decoding
+
+[NeurIPS 2025] TEMPO: Temporal Multi-scale Autoregressive Generation of Protein Conformational Ensembles
+
+[NeurIPS 2025] Enhancing Bioactivity Prediction via Spatial Emptiness Representation of Protein-ligand Complex and Union of Multiple Pockets
+
+[NeurIPS 2025] PRING: Rethinking Protein-Protein Interaction Prediction from Pairs to Graphs
+
+[NeurIPS 2025] Learning conformational ensembles of proteins based on backbone geometry
+
+[NeurIPS 2025] Steering Generative Models with Experimental Data for Protein Fitness Optimization
+
+[NeurIPS 2025] Ambient Proteins - Training Diffusion Models on Noisy Structures
+
+[NeurIPS 2025] Latent Retrieval Augmented Generation of Cross-Domain Protein Binders
 
 [NeurIPS 2025] UniZyme: A Unified Protein Cleavage Site Predictor Enhanced with Enzyme Active-Site Knowledge
+
+[NeurIPS 2025] ProteinConformers: Benchmark Dataset for Simulating Protein Conformational Landscape Diversity and Plausibility
 
 ## ICML 2025
 [ICML 2025] All-atom inverse protein folding through discrete flow matching
