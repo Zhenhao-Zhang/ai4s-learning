@@ -3,6 +3,7 @@
 
 
 # Top Conference in 2026
+
 # Top Conference in 2025
 ## NeurIPS 2025
 [NeurIPS 2025] Scaling Unlocks Broader Generation and Deeper Functional Understanding of Proteins
@@ -218,5 +219,246 @@
 
 <!-- ## EMNLP 2025
 TBD -->
-# Arxiv Paper in 2026
 # Arxiv Paper in 2025
+
+## Submit to ICLR 2026
+[Submit to ICLR 2026] ProteinRPN: Towards Accurate Protein Function Prediction with Graph-Based Region Proposals
+
+[Submit to ICLR 2026] ProteinZero: Self-Improving Protein Generation via Online Reinforcement Learning
+
+[Submit to ICLR 2026] Multi-state Protein Design with DynamicMPNN
+
+[Submit to ICLR 2026] Shrinking Proteins with Diffusion
+
+[Submit to ICLR 2026] Design of Ligand-Binding Proteins with Atomic Flow Matching
+
+[Submit to ICLR 2026] Protein Autoregressive Modeling via Multiscale Structure Generation
+
+[Submit to ICLR 2026] Pallatom-Ligand: an All-Atom Diffusion Model for Designing Ligand-Binding Proteins
+
+[Submit to ICLR 2026] Property-Driven Protein Inverse Folding with Multi-Objective Preference Alignment
+
+[Submit to ICLR 2026] La-Proteina: Atomistic Protein Generation via Partially Latent Flow Matching
+
+[Submit to ICLR 2026] ProteinAE: Protein Diffusion Autoencoders for Structure Encoding
+
+[Submit to ICLR 2026] SSProNet: Secondary Structure aware Graph Neural Network for Protein Representation Learning
+
+[Submit to ICLR 2026] MSAFlow: a Unified Approach for MSA Representation, Augmentation, and Family-based Protein Design
+
+[Submit to ICLR 2026] Reverse Distillation: Disentangling and Scaling Protein Language Model Representations
+
+[Submit to ICLR 2026] RadDiff: Retrieval-Augmented Denoising Diffusion for Protein Inverse Folding
+
+[Submit to ICLR 2026] XPro-Design: Rational Protein Engineering Framework Using Explainable AI
+
+[Submit to ICLR 2026] Distilled Protein Backbone Generation
+
+[Submit to ICLR 2026] FractalFold: Towards Fractal Structure Modeling for Hierarchical Inverse Protein Folding
+
+[Submit to ICLR 2026] Greater than the Sum of Its Parts: Building Substructure into Protein Encoding Models
+
+[Submit to ICLR 2026] ThermoRL: Structure-Aware RL for Protein Mutation Design to Enhance Thermostability
+
+[Submit to ICLR 2026] SimpleDesign - A Joint Model for Protein Sequence and Structure Codesign
+
+[Submit to ICLR 2026] PANDORA: Diffusion-based Protein Conformation Generation
+
+[Submit to ICLR 2026] RigidSSL: Rigidity-based Geometric Pretraining for Protein Generation
+
+[Submit to ICLR 2026] SAIR: Enabling Deep Learning for Protein-Ligand Interactions with a Synthetic Structural Dataset
+
+[Submit to ICLR 2026] AutoFold: Ultra-fast Protein Generation via Autoregressive Contact Graph Generation
+
+[Submit to ICLR 2026] PFMBench: Protein Foundation Model Benchmark
+
+[Submit to ICLR 2026] ChiFlow: Torsional Asymmetry Flow Matching For Chirality-Aware Protein Backbone Generation
+
+[Submit to ICLR 2026] Let Physics Guide Your Protein Flows: Topology-aware Unfolding and Generation
+
+[Submit to ICLR 2026] RankFlow: Property-aware Transport for Protein Optimization
+
+[Submit to ICLR 2026] Evolutionary Profiles for Protein Fitness Prediction
+
+[Submit to ICLR 2026] InstructPro: Natural Language Guided Ligand-Binding Protein Design
+
+[Submit to ICLR 2026] Cross-Species Protein Interaction Prediction by Hierarchical Contrastive Pretraining
+
+[Submit to ICLR 2026] ProteinVista: A compute-efficient atom-level 3D CNN that outperforms sequence transformers in protein–ligand prediction
+
+[Submit to ICLR 2026] One protein is all you need
+
+[Submit to ICLR 2026] Attending on Multilevel Structure of Proteins enables Accurate Prediction of Cold-Start Drug-Target Interactions
+
+[Submit to ICLR 2026] Efficient Prediction of Large Protein Complexes via Subunit-Guided Hierarchical Refinement
+
+[Submit to ICLR 2026] RoSE: Enhancing SE(3)-based Protein Backbone Generation via Robust Score Estimation
+
+[Submit to ICLR 2026] SafeProtein: Red-Teaming Framework and Benchmark for Protein Foundation Models
+
+[Submit to ICLR 2026] Speak to a Protein: An Interactive Multimodal Co-Scientist for Protein Analysis
+
+[Submit to ICLR 2026] Structure-Aligned Protein Language Model
+
+[Submit to ICLR 2026] Evolution-Aware Positive-Unlabeled Learning for Protein Design
+
+[Submit to ICLR 2026] BioBlobs: Differentiable Graph Partitioning for Protein Representation Learning
+
+[Submit to ICLR 2026] MolChord: Structure–Sequence Alignment for Protein-Guided Drug Design
+
+[Submit to ICLR 2026] PIPA: An Agent for Protein Interaction Identification and Perturbation Analysis
+
+[Submit to ICLR 2026] KDPRA: A Dual-Molecule Knowledge Distillation model with Cross-Attention Fusion for Protein–RNA Binding Affinity Prediction
+
+[Submit to ICLR 2026] Token-Level Guided Discrete Diffusion for Membrane Protein Design
+
+[Submit to ICLR 2026] Towards Understanding the Shape of Representations in Protein Language Models
+
+[Submit to ICLR 2026] CoPeP: Benchmarking Continual Pretraining for Protein Language Models
+
+[Submit to ICLR 2026] Fast Proteome-Scale Protein Interaction Retrieval via Residue-Level Factorization
+
+[Submit to ICLR 2026] Learning Collective Variables from BioEmu with Time-Lagged Generation
+[Submit to ICLR 2026] FlexProtein: Joint Sequence and Structure Pretraining for Protein Modeling
+
+[Submit to ICLR 2026] Geometric Self-Supervised Pretraining on 3D Protein Structures using Subgraphs
+
+[Submit to ICLR 2026] PROTDYN: A FOUNDATION PROTEIN LANGUAGE MODEL FOR THERMODYNAMICS AND DYNAMICS GENERATION
+
+[Submit to ICLR 2026] Protein generation with embedding learning for motif diversification
+
+
+[Submit to ICLR 2026] Controlling Repetition in Protein Language Models
+
+[Submit to ICLR 2026] RAMM: Robust Adversarial Multimodal Learning for Protein Stability Prediction
+
+[Submit to ICLR 2026] Fast and Interpretable Protein Substructure Alignment via Optimal Transport
+
+[Submit to ICLR 2026] Leveraging Discrete Function Decomposability for Scientific Design
+
+[Submit to ICLR 2026] Lightweight MSA Design Advances Protein Folding From Evolutionary Embeddings
+
+[Submit to ICLR 2026] Constrained Diffusion for Protein Design with Hard Structural Constraints
+
+[Submit to ICLR 2026] PRISM: Enhancing PRotein Inverse Folding through Fine- Grained Retrieval on Structure-Sequence Multimodal Representations
+
+[Submit to ICLR 2026] Boosting In-Silicon Directed Evolution with Fine-Tuned Protein Language Model and Tree Search
+
+[Submit to ICLR 2026] From Supervision to Exploration: What Does Protein Language Model Learn During Reinforcement Learning?
+
+[Submit to ICLR 2026] Drug-ProGO: A Gene Ontology-Enhanced Contrastive Learning Framework for Drug Virtual Screening with Multi-modality Whole-Protein Input
+
+[Submit to ICLR 2026] Mutation2Text: A Unified Protein and Text Language Model for Explaining Mutation Effects
+
+[Submit to ICLR 2026] Improving Protein Sequence Design through Designability Preference Optimization
+
+[Submit to ICLR 2026] PETIMOT: A Novel Framework for Inferring Protein Motions from Sparse Data Using SE(3)-Equivariant Graph Neural Networks
+
+[Submit to ICLR 2026] ESMfluc: Predicting Flexible Regions in a Protein Using Language Models
+
+[Submit to ICLR 2026] Riemannian Variational Flow Matching for Material and Protein Design
+
+[Submit to ICLR 2026] Scalable Generative Modeling of Protein Ligand Trajectories via Graph Neural Diffusion Networks
+
+[Submit to ICLR 2026] GCP-VQVAE: A Geometry-Complete Language for Protein 3D Structure
+
+[Submit to ICLR 2026] GeomMotif: A Benchmark for Arbitrary Geometric Preservation in Protein Generation
+
+[Submit to ICLR 2026] Protein Structure Tokenization via Geometric Byte Pair Encoding
+
+[Submit to ICLR 2026] Empowering Protein Language Model for Sequence-Structure Co-Generation with Continuous Structure Tokens
+
+[Submit to ICLR 2026] DISPROTBENCH: A Disorder-Aware, Task-Rich Benchmark for Evaluating Protein Structure Prediction in Realistic Biological Contexts
+
+[Submit to ICLR 2026] Scaling Atomistic Protein Binder Design with Generative Pretraining and Test-Time Compute
+
+[Submit to ICLR 2026] LiveProteinBench: A Contamination-Free Benchmark for Assessing Models' Specialized Capabilities in Protein Science
+
+[Submit to ICLR 2026] TopoScorer: a light, interpretable predictor for protein-protein binding affinity
+
+[Submit to ICLR 2026] SimpleFold: Folding Proteins is Simpler than You Think
+
+[Submit to ICLR 2026] VenusX: Unlocking Fine-Grained Functional Understanding of Proteins
+
+[Submit to ICLR 2026] Protein-SE(3): Unified Framework and Comprehensive Benchmark for SE(3)-based Protein Structure Design
+
+[Submit to ICLR 2026] UNSUPERVISED MEMBRANE SUBTRACTION IN CRYOGENIC ELECTRON MICROSCOPY IMAGES
+
+[Submit to ICLR 2026] A diffusion model on toric varieties with application to protein loop modeling
+
+[Submit to ICLR 2026] Flow Autoencoders are Effective Protein Tokenizers
+
+[Submit to ICLR 2026] Protein as a Second Language for LLMs
+
+[Submit to ICLR 2026] Advancing Drug-Target Interaction Prediction via Graph Transformers and Residual Protein Embeddings
+
+[Submit to ICLR 2026] Symmetric Dual-Path Integration for Protein Inverse Folding
+
+[Submit to ICLR 2026] SIDGEN - Structure-Informed Diffusion for Generative Modeling of Ligands for Proteins
+
+[Submit to ICLR 2026] Latent Space Codon Optimization Maximizes Protein Expression
+
+[Submit to ICLR 2026] Learning residue level protein dynamics with multiscale Gaussians
+
+[Submit to ICLR 2026] Representing local protein environments with machine learning force fields
+
+[Submit to ICLR 2026] ProtFunAgent: Agentic LLM Cascades for Low-Resource Protein Function Gap-Filling via Homology RAG and Ontology-Constrained Decoding
+
+[Submit to ICLR 2026] Prot2Token: A Unified Framework for Protein Modeling via Next-Token Prediction
+
+[Submit to ICLR 2026] Protap: A Benchmark for Protein Modeling on Realistic Downstream Applications
+
+[Submit to ICLR 2026] Beyond Geometry: Functionally Grounded Molecule Generation for Structure-Based Drug Design
+
+[Submit to ICLR 2026] InterfaceDiff: Interface-Aware Sequence-Structure Co-Design of Protein Complexes with Graph-Based Diffusion
+
+[Submit to ICLR 2026] DCFold: Efficient Protein Structure Generation with Single Forward Pass
+
+[Submit to ICLR 2026] Bridging Protein Structure to Sequence via Local Structure for Inverse Folding
+
+[Submit to ICLR 2026] KGOT: Unified Knowledge Graph and Optimal Transport Pseudo-Labeling for Molecule-Protein Interaction Prediction
+
+[Submit to ICLR 2026] QAProt: Enabling Sequence-to-Text Protein Function Learning with a Comprehensive QA Corpus
+
+[Submit to ICLR 2026] EnerBridge-DPO: Energy-Guided Protein Inverse Folding with Markov Bridges and Direct Preference Optimization
+
+[Submit to ICLR 2026] Prot2RNA: A Diffusion Language Model for Protein-Conditioned mRNA Coding Sequence Generation
+
+[Submit to ICLR 2026] GDEGAN: Gaussian Dynamic Equivariant Graph Attention Network for Ligand Binding Site Prediction
+
+[Submit to ICLR 2026] SLAE: Strictly Local All-atom Environment for Protein Representation
+
+[Submit to ICLR 2026] Learning Early Treatment Strategy from Snapshots for mRNA-Protein Regulatory Networks
+
+[Submit to ICLR 2026] ProtoBind-Diff: Protein-Conditioned Discrete Diffusion for Structure-Free Ligand Generation
+
+[Submit to ICLR 2026] Scalable Spatio-Temporal SE(3) Diffusion for Long-Horizon Protein Dynamics
+
+[Submit to ICLR 2026] InstructPLM-mu: 1-Hour Fine-Tuning of ESM2 Beats ESM3 in Protein Mutation Predictions
+
+[Submit to ICLR 2026] Toward Protein Docking-oriented De Novo Ligand Design via Gradient Inversion
+
+[Submit to ICLR 2026] PDFBench: A Benchmark for De novo Protein Design from Function
+
+[Submit to ICLR 2026] DockedAC: A Dataset with Comprehensive 3D Protein-ligand Complexes for Activity Cliff Analysis
+
+[Submit to ICLR 2026] Performance vs interpretability trade-off of hand-crafted and language model features: The case of protein superfamily classification
+
+[Submit to ICLR 2026] PoseX: AI Defeats Physics-based Methods on Protein Ligand Cross-Docking
+
+[Submit to ICLR 2026] Improving Active-Learning Evaluation, with Applications to Protein-Property Prediction
+
+[Submit to ICLR 2026] Protein Language Model–Aligned Spectra Embeddings for De Novo Peptide Sequencing
+
+[Submit to ICLR 2026] MotifScreen: Generalizing Virtual Screening through Learning Protein-Ligand Interaction Principles
+
+[Submit to ICLR 2026] CAPSUL: A Comprehensive Human Protein Benchmark for Subcellular Localization
+
+[Submit to ICLR 2026] PEPTRIX: A FRAMEWORK FOR EXPLAINABLE PEPTIDE ANALYSIS THROUGH PROTEIN LANGUAGE MODELS
+
+[Submit to ICLR 2026] Mitigating Class Imbalance in Graph-Structured Data via Hierarchical Learning: Insights from Protein Binding Site Prediction
+
+[Submit to ICLR 2026] Beyond Ensembles: Simulating All-Atom Protein Dynamics in a Learned Latent Space
+
+
+[Submit to ICLR 2026] IgFlow-LM: De Novo Antibody Design via Joint Flow Matching on SE(3) and Protein Language Models Probability Flows
